@@ -21,6 +21,12 @@ Aplicação para venda de ingressos de cinema
 * Login
 * Cadastro
 
+### Salas de cinema
+* Cadeiras
+
+### Fechamento da compra
+* Formas de pagamento
+
 ### Area do usuario
 * Feed (Ingressos validos, vencidos, consumidos)
 * Configurações
