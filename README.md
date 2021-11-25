@@ -25,7 +25,19 @@ Aplicação para venda de ingressos de cinema
 * Cadeiras
 
 ### Fechamento da compra
-* Formas de pagamento
+- Ingressos
+    * Cinema
+    * Filme
+    * Tipo sessão (2D/3D)
+    * Horario
+    * Quantidade
+    * Preço unitário
+    * Preço total
+- Pagamento
+    * Cartão de crédito
+    * Paypal
+    * Pix
+    * Cupom de desconto
 
 ### Area do usuario
 * Feed (Ingressos validos, vencidos, consumidos)
