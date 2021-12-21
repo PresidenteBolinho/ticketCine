@@ -17,6 +17,12 @@ Aplicação para venda de ingressos de cinema
     * Em cartaz
     * Em breve
 
+### Página do filme
+* Sinopse
+* Elenco
+* Avaliação (Usar alguma api: IMDb, bagulinho dos tomates)
+* Trailer
+
 ### Autenticação
 * Login
 * Cadastro
